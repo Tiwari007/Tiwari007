@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @Tiwari007 (Vivek Tiwari).
+- 👀 I’m interested in developing.
+- 🌱 Currently learning MERN stack.
+- 💞️ I’m looking to collaborate on ________
+- 📫 How to reach me ( Email - vt2174781@gmail.com )
+
 <!--
 **Tiwari007/Tiwari007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
