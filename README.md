@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LTTS.<br>🤝 I’m looking for help with MERN Stack.<br>🌱 I’m currently learning Prisma.<br>💬 Ask me about Anything regarding React and JavaScript.<br>⚡ Fun fact I'm Really Funny.
+🔭 I’m currently working on LTTS.<br>🤝 I’m looking for help with MERN Stack.<br>🌱 I’m currently learning Plotly Dash.<br>💬 Ask me about Anything regarding React and JavaScript.<br>⚡ Fun fact I'm Really Funny.
 
 
 ## 🌐 Socials:
