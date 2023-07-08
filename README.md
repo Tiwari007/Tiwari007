@@ -1,3 +1,8 @@
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek Tiwari!
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&weight=600&size=34&duration=3000&pause=1000&color=F7F7F7D2&background=FFFFFF00&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on LTTS.<br>🤝 I’m looking for help with MERN Stack.<br>🌱 I’m currently learning Plotly Dash.<br>💬 Ask me about Anything regarding React and JavaScript.<br>⚡ Fun fact I'm Really Funny.
 
